@@ -40,6 +40,7 @@ O sistema deve responder a consultas on-line em menos de 5 segundos.
 O sistema deve iniciar a impressão de relatórios solicitados dentro de no máximo 20 segundos após sua requisição. 
 
 Portabilidade 
+
 O sistema deve ser web e adaptavel para dispositivos moveis. 
   
 Metodologia  
